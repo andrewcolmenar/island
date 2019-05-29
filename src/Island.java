@@ -8,7 +8,7 @@ public class Island {
             cycle.cycle();
             double saved = Math.random();
             if (saved <= savior){
-                System.out.println("YOU WERE SAVED!!!");
+                System.out.println("YOU WERE SAVED!!");
                 System.out.println("YOU WERE SAVED!!!");
                 System.out.println("YOU WERE SAVED!!!");
             }
